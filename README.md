@@ -3,7 +3,6 @@ Welcome To J~Net Security Check 2020
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Github Update Link
-
 https://github.com/jamieduk/Security_Checker
 
 Youtube Vid For This
