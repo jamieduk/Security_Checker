@@ -1,6 +1,6 @@
 #!/bin/bash
 clear
-echo "Welcome To J~Net Security Check 2020"
+echo "Welcome To J~Net Security Check Menu 2020"
 echo ""
 echo "1 Check Firefox Monitor"
 echo "2 Check if you've been pwned"
