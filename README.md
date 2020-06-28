@@ -4,7 +4,7 @@ Welcome To J~Net Security Check 2020
 
 Github Update Link
 
-git clone https://github.com/jamieduk/Security_Checker.git
+https://github.com/jamieduk/Security_Checker
 
 
 Main Site
@@ -24,4 +24,5 @@ Running:
 sudo chmod +x *.sh
 
 ./run.sh
+# Security_Checker
 # Security_Checker
