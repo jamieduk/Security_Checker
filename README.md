@@ -31,6 +31,3 @@ sudo chmod +x *.sh
 git clone https://github.com/jamieduk/Security_Checker $$ cd Security_Checker sudo chmod +x *.sh && ./run.sh
 
 
-
-
-# Security_Checker
