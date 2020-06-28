@@ -28,6 +28,6 @@ sudo chmod +x *.sh
 
 1st Time Run Usage Setup/ Run
 
-git clone https://github.com/jamieduk/Security_Checker $$ cd Security_Checker sudo chmod +x *.sh && ./run.sh
+git clone https://github.com/jamieduk/Security_Checker && cd Security_Checker sudo chmod +x *.sh && ./run.sh
 
 
