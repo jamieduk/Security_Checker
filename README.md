@@ -24,5 +24,13 @@ Running:
 sudo chmod +x *.sh
 
 ./run.sh
-# Security_Checker
+
+
+1st Time Run Usage Setup/ Run
+
+git clone https://github.com/jamieduk/Security_Checker $$ cd Security_Checker sudo chmod +x *.sh && ./run.sh
+
+
+
+
 # Security_Checker
