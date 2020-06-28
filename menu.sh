@@ -8,7 +8,8 @@ echo "3 See Stored Credentails On Firefox Browser"
 echo "4 Who is logged on?" 
 echo "5 View Date"
 echo "6 View Calendar"
-echo "7 Update Security Checker 2020"
+echo "7 View Google Network Activity"
+echo "8 Update Security Checker 2020"
 echo "Enter your choice:"
 echo ""
 read n
@@ -19,7 +20,8 @@ case $n in
 4)who ;;
 5)date ;;
 6)cal ;;
-7)sh ./update.sh ;;
+7)firefox myactivity.google.com/myactivity ;;
+8)sh ./update.sh ;;
 esac
 
 
