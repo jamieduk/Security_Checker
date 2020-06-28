@@ -10,6 +10,7 @@ echo "5 View Date"
 echo "6 View Calendar"
 echo "7 View Google Network Activity"
 echo "8 Update Security Checker 2020"
+echo "9 Give Feedback / Request Menu Item"
 echo "Enter your choice:"
 echo ""
 read n
@@ -22,6 +23,7 @@ case $n in
 6)cal ;;
 7)firefox myactivity.google.com/myactivity ;;
 8)sh ./update.sh ;;
+9)firefox github.com/jamieduk/Security_Checker/issues ;;
 esac
 
 
