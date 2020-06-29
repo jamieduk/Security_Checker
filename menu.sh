@@ -5,7 +5,7 @@ echo ""
 echo "1 Check Firefox Monitor"
 echo "2 Check if you've been pwned"
 echo "3 View Stored Credentails On Firefox Browser"
-echo "4 View who is logged on?" 
+echo "4 View who is logged on" 
 echo "5 View Date"
 echo "6 View Calendar"
 echo "7 View Google Network Activity"
@@ -25,5 +25,3 @@ case $n in
 8)sh ./update.sh ;;
 9)firefox github.com/jamieduk/Security_Checker/issues ;;
 esac
-
-
