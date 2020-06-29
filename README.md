@@ -1,12 +1,9 @@
-# Security_Checker
 Welcome To J~Net Security Check 2020
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Github Update Link
-https://github.com/jamieduk/Security_Checker
 
-Youtube Vid For This
-https://youtu.be/9zBlWGUmBTg
+https://github.com/jamieduk/Security_Checker
 
 Main Site
 
@@ -18,8 +15,6 @@ Forum Site
 jnet.forumotion.com
 
 
-
-
 Running:
 
 sudo chmod +x *.sh
@@ -27,8 +22,16 @@ sudo chmod +x *.sh
 ./run.sh
 
 
-1st Time Run Usage Setup/ Run
+Menu Items:
 
-git clone https://github.com/jamieduk/Security_Checker && cd Security_Checker && sudo chmod +x *.sh && ./run.sh
+1 Check Firefox Monitor
+2 Check if you've been pwned
+3 View Stored Credentails On Firefox Browser
+4 View who is logged on?
+5 View Date
+6 View Calendar
+7 View Google Network Activity
+8 Update Security Checker 2020
+9 Give Feedback / Request Menu Item
 
 
